@@ -9,9 +9,9 @@ const config = {
         adapter: adapter({
             fallback: '404.html'
         }),
-        paths: {
-            base: process.env.NODE_END === 'production' ? '/homepage' : ''
-        }
+        // paths: {
+        //     base: process.env.NODE_END === 'production' ? '/homepage' : ''
+        // }
     },
 
     extensions: ['.svelte', '.svx']
