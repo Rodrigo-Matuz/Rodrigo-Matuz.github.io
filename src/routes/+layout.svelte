@@ -2,7 +2,7 @@
 	import './layout.css';
 	import coding from '$lib/assets/coding.png';
 
-	let { children } = $props();
+	const { children } = $props();
 </script>
 
 <svelte:head>
