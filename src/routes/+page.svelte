@@ -29,7 +29,7 @@
 	<meta name="twitter:image" content="https://matuz.me/og/banner.png" />
 </svelte:head>
 
-<Header />
+<Header title="Home" />
 
 <a
 	href="mailto:rodrigosantoslima1311@gmail.com"
